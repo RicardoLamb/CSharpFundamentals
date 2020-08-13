@@ -1,0 +1,11 @@
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\CSharpFundamentals\Delegates\bin\Debug\netcoreapp3.0\Delegates.exe
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\CSharpFundamentals\Delegates\bin\Debug\netcoreapp3.0\Delegates.deps.json
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\CSharpFundamentals\Delegates\bin\Debug\netcoreapp3.0\Delegates.runtimeconfig.json
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\CSharpFundamentals\Delegates\bin\Debug\netcoreapp3.0\Delegates.runtimeconfig.dev.json
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\CSharpFundamentals\Delegates\bin\Debug\netcoreapp3.0\Delegates.dll
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\CSharpFundamentals\Delegates\bin\Debug\netcoreapp3.0\Delegates.pdb
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\CSharpFundamentals\Delegates\obj\Debug\netcoreapp3.0\Delegates.csprojAssemblyReference.cache
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\CSharpFundamentals\Delegates\obj\Debug\netcoreapp3.0\Delegates.AssemblyInfoInputs.cache
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\CSharpFundamentals\Delegates\obj\Debug\netcoreapp3.0\Delegates.AssemblyInfo.cs
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\CSharpFundamentals\Delegates\obj\Debug\netcoreapp3.0\Delegates.dll
+D:\RICARDO\OneDrive\Pessoal\Profissional\CODE\GitHub\CSharpFundamentals\Delegates\obj\Debug\netcoreapp3.0\Delegates.pdb
